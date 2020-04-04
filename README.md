@@ -1,5 +1,5 @@
 # senai_spmedgroup_sprint3_ui_tarde_ErickH
-Criação dos layouts do projeto SP Medical Group
+### Criação dos layouts do projeto SP Medical Group
 
 ## Criação dos layouts de baixa fidelidade (wireframes) desktop do projeto SP Medical Group, sendo 5 telas obrigatórias:
 
